@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://phox.surge.sh/img/phox.png"  />
+  <img height="200" src="https://phox.surge.sh/img/phox-banner-2.png"  />
 </div>
 
 ###
