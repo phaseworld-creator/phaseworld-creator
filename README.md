@@ -14,7 +14,7 @@
 
 ###
 
-<h6 align="center">Elite Coder<br>Developer & Owner of PHOX R4iding Inc.</h6>
+<h6 align="center">Chcę kogoś kochać,ale<br>Developer & Owner of Insomnia</h6>
 
 ###
 
