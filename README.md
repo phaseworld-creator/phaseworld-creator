@@ -12,11 +12,6 @@
 
 <h1 align="center">PhaseWorld</h1>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/phaseworld-creator/phaseworld-creator/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
