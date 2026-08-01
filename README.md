@@ -6,7 +6,11 @@
 
 ###
 
-<h2 data-importer="text" align="left">Im The Creator of [Phase Project](https://github.com/Phase-Project)<br>And I Own [Monatch SMP](https://discord.gg/fYcmFJpmmB)<br>You Nead Something From me Email Me At contact.phaseworld@gmail.com</h2>
+<h2 align="left">
+  I'm the creator of <a href="https://github.com/Phase-Project">Phase Project</a>.<br>
+  I own <a href="https://discord.gg/fYcmFJpmmB">Monatch SMP</a>.<br>
+  Need something from me? Email me at <a href="mailto:contact.phaseworld@gmail.com">contact.phaseworld@gmail.com</a>.
+</h2>
 
 ###
 
