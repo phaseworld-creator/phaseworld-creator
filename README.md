@@ -6,7 +6,11 @@
 
 ###
 
-<h2 data-importer="text" align="left">I'm the creator of <a href="https://github.com/Phase-Project">Phase Project</a>.<br><br>I own <a href="https://discord.gg/fYcmFJpmmB">Monatch SMP</a>.<br><br>Need something from me? Email me at <a href="mailto:contact.phaseworld@gmail.com">contact.phaseworld@gmail.com</a>.</h2>
+<h2 align="left">
+  I'm the creator of <a href="https://github.com/Phase-Project">Phase Project</a>.<br>
+  I own <a href="https://discord.gg/fYcmFJpmmB">Monatch SMP</a>.<br>
+  Need something from me? Email me at <a href="mailto:contact.phaseworld@gmail.com">contact.phaseworld@gmail.com</a>.
+</h2>
 
 ###
 
