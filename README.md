@@ -2,17 +2,11 @@
 
 ###
 
-<h1 align="center">PhaseWorld</h1>
-<br clear="all">
-<hr>
+<h1 data-importer="text" align="center">PhaseWorld</h1>
 
 ###
 
-<h2 align="left">
-  I'm the creator of <a href="https://github.com/Phase-Project">Phase Project</a>.<br>
-  I own <a href="https://discord.gg/fYcmFJpmmB">Monatch SMP</a>.<br>
-  Need something from me? Email me at <a href="mailto:contact.phaseworld@gmail.com">contact.phaseworld@gmail.com</a>.
-</h2>
+<h2 data-importer="text" align="left">I'm the creator of <a href="https://github.com/Phase-Project">Phase Project</a>.<br><br>  I own <a href="https://discord.gg/fYcmFJpmmB">Monatch SMP</a>.<br><br>  Need something from me? Email me at <a href="mailto:contact.phaseworld@gmail.com">contact.phaseworld@gmail.com</a>.</h2>
 
 ###
 
@@ -61,7 +55,7 @@
 
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/31ta3xiy2mh3o5la6fg5k7mnyjgm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ta3xiy2mh3o5la6fg5k7mnyjgm&count=2&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ta3xiy2mh3o5la6fg5k7mnyjgm&count=1&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
