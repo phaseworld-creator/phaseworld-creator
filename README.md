@@ -9,7 +9,6 @@
 
 ## I'm the creator of <a href="https://github.com/Phase-Project">Phase Project</a>.<br>
 ## I own <a href="https://discord.gg/fYcmFJpmmB">Monatch SMP</a>.<br>
-## Need something from me? Email me at <a href="mailto:contact.phaseworld@gmail.com">contact.phaseworld@gmail.com</a>.
 
 </td>
 </tr>
@@ -67,3 +66,5 @@
 - https://phaseworld.surge.sh
 - https://phase-cdn.surge.sh
 - Dont Have all of it
+
+## Need something from me? Email me at <a href="mailto:contact.phaseworld@gmail.com">contact.phaseworld@gmail.com</a>.
