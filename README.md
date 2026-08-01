@@ -45,8 +45,8 @@
 # 📊 More Info
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/phaseworld-creator/phaseworld-creator/main/stats.svg" height="150" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/phaseworld-creator/phaseworld-creator/main/languages.svg" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=phaseworld-creator&hide_rank=true&show_icons=true&include_all_commits=true&theme=jolly" height="150" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=phaseworld-creator&layout=compact&theme=jolly" height="150" alt="Top Languages" />
 </div>
 <br>
 
