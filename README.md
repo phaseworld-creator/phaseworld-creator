@@ -1,8 +1,10 @@
-<div align="center">
-  <img align="left" height="200" src="https://avatars.githubusercontent.com/u/279915747?v=4" style="margin-right: 20px;" />
-  <h1 align="center" style="border-bottom: none; display: inline-block;">PhaseWorld</h1>
-</div>
-<br clear="all" />
+<img data-importer="image" align="left" height="200" src="https://avatars.githubusercontent.com/u/279915747?v=4"  />
+
+###
+
+<h1 align="center">PhaseWorld</h1>
+<br clear="all">
+<hr>
 
 ###
 
