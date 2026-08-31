@@ -62,7 +62,6 @@
 
 - https://phaseworld.top
 - https://phaseworld.surge.sh
-- https://phase-cdn.surge.sh
 - https://phaseworld.pages.dev
 - Dont Have all of it
 
