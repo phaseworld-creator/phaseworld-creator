@@ -7,8 +7,7 @@
 
 #     PhaseWorld
 
-## I'm the creator of <a href="https://github.com/Phase-Project">Phase Project</a>.<br>
-## I own PhaseBot.<br>
+## I'm the creator of <a href="https://github.com/Aethis-Studio">Aethis Studio </a>.<br>
 
 </td>
 </tr>
