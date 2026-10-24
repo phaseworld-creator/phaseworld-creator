@@ -6,9 +6,6 @@
 <td valign="middle">
 
 #     PhaseWorld
-
-## I'm the creator of <a href="https://github.com/Aethis-Studio">Aethis Studio </a>.<br>
-
 </td>
 </tr>
 </table>
