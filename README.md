@@ -1,5 +1,3 @@
-[![phasewold.runs-on.dev](https://runs-on.dev/banner/phasewold)](https://phasewold.runs-on.dev)
-
 <div align="center">
   <img src="https://count.getloli.com/@:phaseworld-creator?theme=booru-lisu&padding=7&scale=1&align=top&pixelated=0&darkmode=1" />
 </div>
