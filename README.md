@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17132B,50:493A83,100:8B72D9&height=220&section=header&text=PHASEWORLD&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Creator%20of%20Purpurite%20Studio&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Phaseworld banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=PhaseWorld&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&desc=Full-stack+developer+%2F+creative+technologist&descSize=20&descAlign=50&descAlignY=60" width="100%" alt="Phaseworld banner" />
 
 ### Hey, welcome to my GitHub!
 
