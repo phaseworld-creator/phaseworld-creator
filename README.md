@@ -35,14 +35,15 @@ Languages and tools I work with:
 
 ## 🚀 Selected Projects
 
-A selection of public projects and experiments:
+A few original projects from my public repositories (forks are excluded):
 
-- [AchievementGenerator](https://github.com/phaseworld-creator/AchievementGenerator)
-- [Equicord](https://github.com/phaseworld-creator/Equicord)
-- [Roblox-Script](https://github.com/phaseworld-creator/Roblox-Script)
+- [Phaseworld Website](https://github.com/phaseworld-creator/phaseworld.top)
 - [My Cosmetics Bot](https://github.com/phaseworld-creator/my-cosmetics-bot)
+- [Phox Tools](https://github.com/phaseworld-creator/phox-tools)
+- [Roblox Script](https://github.com/phaseworld-creator/Roblox-Script)
+- [Selfbot Python](https://github.com/phaseworld-creator/selfbot-python)
 
-Explore more on my [GitHub repositories page](https://github.com/phaseworld-creator?tab=repositories).
+See my [public repositories](https://github.com/phaseworld-creator?tab=repositories) for more. This featured list intentionally leaves out forks and **zipline-phase**.
 
 ## 🌐 Links
 
