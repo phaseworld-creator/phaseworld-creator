@@ -6,9 +6,11 @@
 
 I build things, explore new technologies, and turn ideas into projects.
 
-[![Website](https://img.shields.io/badge/Website-phaseworld.top-8B72D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://phaseworld.top)
-[![GitHub](https://img.shields.io/badge/GitHub- phaseworld--creator-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phaseworld-creator)
-[![Email](https://img.shields.io/badge/Email-Contact-6D5ACF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@mail.phaseworld.top)
+<p align="center">
+  <a href="https://phaseworld.top"><img src="https://img.shields.io/badge/Website-phaseworld.top-8B72D9?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website: phaseworld.top" /></a>
+  <a href="https://github.com/phaseworld-creator"><img src="https://img.shields.io/badge/GitHub-phaseworld--creator-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: phaseworld-creator" /></a>
+  <a href="mailto:contact@mail.phaseworld.top"><img src="https://img.shields.io/badge/Email-Contact-6D5ACF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email: contact@mail.phaseworld.top" /></a>
+</p>
 
 <img src="https://count.getloli.com/@:phaseworld-creator?theme=booru-lisu&padding=7&scale=1&align=top&pixelated=0&darkmode=1" alt="Profile views" />
 
