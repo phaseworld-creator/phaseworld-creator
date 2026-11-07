@@ -1,48 +1,67 @@
 <div align="center">
-  <img src="https://count.getloli.com/@:phaseworld-creator?theme=booru-lisu&padding=7&scale=1&align=top&pixelated=0&darkmode=1" />
+
+# 🌌 Phaseworld
+
+### Developer · Creator of Purpurite Studio
+
+Building software, exploring ideas, and turning experiments into useful projects.
+
+[🌐 Website](https://phaseworld.top) · [💻 GitHub](https://github.com/phaseworld-creator) · [✉️ Contact](mailto:contact@mail.phaseworld.top)
+
+<img src="https://count.getloli.com/@:phaseworld-creator?theme=booru-lisu&padding=7&scale=1&align=top&pixelated=0&darkmode=1" alt="Profile views" />
+
 </div>
 
 ---
 
-## 💻 I code in
+## 👋 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" />
-</div>
+Hey! I'm **Phaseworld** — a developer who enjoys creating things, learning new technologies, and experimenting with software.
 
----
+I'm currently focused on **Purpurite Studio** and a variety of independent projects.
 
-# 📊 More Info
+- 🏗️ Building **Purpurite Studio**
+- 💻 Interested in web development, software, and automation
+- 🧪 Always experimenting with new ideas and technologies
+- 🌍 Based in France
+
+## 🛠️ Technologies
+
+Languages and tools I work with:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,python,html,css,java,lua,rust" alt="JavaScript, TypeScript, Next.js, Python, HTML, CSS, Java, Lua and Rust" />
+</p>
+
+## 🚀 Selected Projects
+
+A selection of public projects and experiments:
+
+- [AchievementGenerator](https://github.com/phaseworld-creator/AchievementGenerator)
+- [Equicord](https://github.com/phaseworld-creator/Equicord)
+- [Roblox-Script](https://github.com/phaseworld-creator/Roblox-Script)
+- [My Cosmetics Bot](https://github.com/phaseworld-creator/my-cosmetics-bot)
+
+Explore more on my [GitHub repositories page](https://github.com/phaseworld-creator?tab=repositories).
+
+## 🌐 Links
+
+- **Website:** [phaseworld.top](https://phaseworld.top)
+- **Pages:** [phaseworld.pages.dev](https://phaseworld.pages.dev)
+- **Alternative website:** [phaseworld.surge.sh](https://phaseworld.surge.sh)
+- **Email:** [contact@mail.phaseworld.top](mailto:contact@mail.phaseworld.top)
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=phaseworld-creator&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly" height="150" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=phaseworld-creator&layout=compact&theme=jolly" height="150" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=phaseworld-creator&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=phaseworld-creator&layout=compact&theme=jolly&hide_border=true" alt="Most used languages" />
 </div>
-<br>
 
 ---
 
-# 🌐 My Website
+<div align="center">
 
-- https://phaseworld.top
-- https://phaseworld.surge.sh
-- https://phaseworld.pages.dev
-- Dont Have all of it
+*Thanks for visiting my profile. See you around! ✨*
 
-## Need something from me? Email me at <a href="mailto:contact.phaseworld@gmail.com">contact.phaseworld@gmail.com</a>.
+</div>
