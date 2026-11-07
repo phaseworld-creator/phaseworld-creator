@@ -47,10 +47,13 @@ See my [public repositories](https://github.com/phaseworld-creator?tab=repositor
 
 ## 🌐 Links
 
-- **Website:** [phaseworld.top](https://phaseworld.top)
-- **Pages:** [phaseworld.pages.dev](https://phaseworld.pages.dev)
-- **Alternative website:** [phaseworld.surge.sh](https://phaseworld.surge.sh)
+- **Main website:** [phaseworld.top](https://phaseworld.top)
+- **WWW domain:** [www.phaseworld.top](https://www.phaseworld.top)
+- **Runs on:** [phaseworld.runs-on.dev](https://phaseworld.runs-on.dev)
+- **Vercel deployment:** [website-seven-rho-82.vercel.app](https://website-seven-rho-82.vercel.app)
 - **Email:** [contact@mail.phaseworld.top](mailto:contact@mail.phaseworld.top)
+
+*Only domains shown as valid in the domain dashboard are listed here.*
 
 ## 📊 GitHub Statistics
 
