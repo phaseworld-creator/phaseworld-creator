@@ -9,7 +9,7 @@ I build things, explore new technologies, and turn ideas into projects.
 <p align="center">
   <a href="https://phaseworld.top"><img src="https://img.shields.io/badge/Website-phaseworld.top-8B72D9?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website: phaseworld.top" /></a>
   <a href="https://github.com/phaseworld-creator"><img src="https://img.shields.io/badge/GitHub-phaseworld--creator-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: phaseworld-creator" /></a>
-  <a href="mailto:contact@mail.phaseworld.top"><img src="https://img.shields.io/badge/Email-Contact-6D5ACF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email: contact@mail.phaseworld.top" /></a>
+  <a href="mailto:contact-me@phaseworld.top"><img src="https://img.shields.io/badge/Email-Contact-6D5ACF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email: contact-me@phaseworld.top" /></a>
 </p>
 
 <img src="https://count.getloli.com/@:phaseworld-creator?theme=booru-lisu&padding=7&scale=1&align=top&pixelated=0&darkmode=1" alt="Profile views" />
@@ -42,7 +42,7 @@ I'm **Phaseworld**, a developer interested in building software and experimentin
   <a href="https://website-seven-rho-82.vercel.app"><img src="https://img.shields.io/badge/Deployment-Vercel-8B72D9?style=flat-square&logo=vercel&logoColor=white" alt="Vercel deployment" /></a>
 </p>
 
-For questions, ideas, or collaboration: **[contact@mail.phaseworld.top](mailto:contact@mail.phaseworld.top)**
+For questions, ideas, or collaboration: **[contact-me@phaseworld.top](mailto:contact-me@phaseworld.top)**
 
 ## 📈 GitHub Overview
 
